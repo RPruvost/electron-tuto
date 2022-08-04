@@ -1,0 +1,15 @@
+{
+  "name": "tuto-electron",
+  "version": "1.0.0",
+  "description": "tuto electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "author": "Buss",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.0"
+  }
+}
